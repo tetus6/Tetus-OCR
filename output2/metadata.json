@@ -1,0 +1,14 @@
+{
+  "total_samples": 567,
+  "train_samples": 396,
+  "val_samples": 114,
+  "test_samples": 57,
+  "model_used": "microsoft/trocr-base-printed",
+  "languages": [
+    "en"
+  ],
+  "ocr_engines": [
+    "easyocr",
+    "tesseract"
+  ]
+}
